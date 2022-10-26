@@ -7,10 +7,10 @@ This package derive the forward kinematic, inverse kinematic, and Jacobian. Thes
 
 ## Demo 
 
-# Jacobian
+### Jacobian
 
 https://youtu.be/OK9B0Jeo86I
 
-# Inverse Kinematic 
+### Inverse Kinematic 
 
 https://youtu.be/SvX5C4ZD1OU
